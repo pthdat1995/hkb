@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel
+            Orientation="Vertical">
+            <Button
+                x:Name="btnshow"
+                Height="35"
+                Width="100"
+                Content="SHOW"
+                Click="btnShow_Click">
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>
