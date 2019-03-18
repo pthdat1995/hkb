@@ -16,7 +16,6 @@
                 Content="SHOW"
                 Click="btnShow_Clickclick">
             </Button>
-
         </StackPanel>
     </Grid>
 </Window>
